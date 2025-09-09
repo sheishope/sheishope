@@ -9,7 +9,11 @@ Asides tech, I write for fun, bringing my imaginations to life with a pen and pa
 
 LinkedIn: www.linkedin.com/in/hope-mkpidut-a82a9621b
 
-Instagram: https://instagram.com/__.mmaya_
+Instagram: <https://instagram.com/__.mmaya_>
+
+X: <https://x.com/_mmaya__>
+
+
 
 <!--
 **sheishope/sheishope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
